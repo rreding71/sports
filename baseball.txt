@@ -1,3 +1,6 @@
 phillies
 mets
 yankees
+cubs
+red
+marlins
